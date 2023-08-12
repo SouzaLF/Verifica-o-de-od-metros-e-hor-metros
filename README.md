@@ -1,2 +1,2 @@
-# Verifica-o-de-od-metros-e-hor-metros
-Script para verificação de apontamentos manuais, correção dos dados de entrada.
+# Verificação de odômetros e horímetros
+Script desenvolvido para verificação de apontamentos manuais (inputs) com o objetivo de tratar essas informações de forma antecipada.
